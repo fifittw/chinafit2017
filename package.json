@@ -1,0 +1,22 @@
+{
+  "main": "index.html",
+  "name": "fifit chinafit 2017",
+  "description": "fifit chinafit 2017",
+  "version": "0.1.0",
+  "keywords": [ "fifit"],
+  "window": {
+    "title": "fifit chinafit 2017",
+    "icon": "link.png",
+    "toolbar": true,
+    "frame": true,
+    "width": 1280,
+    "height": 800,
+    "position": "center",
+    "min_width": 1024,
+    "min_height": 768,
+    "fullscreen": true
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
